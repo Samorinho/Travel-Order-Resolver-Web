@@ -1,0 +1,15 @@
+{
+  "button": {
+    "send": "Envoyer",
+    "record": "Enregistrer",
+    "stop": "Arrêter"
+  },
+  "language": {
+    "french": "Français",
+    "english": "Anglais",
+    "label": "Langue"
+  },
+  "request": "Écrivez votre requête",
+  "departure": "Départ",
+  "arrival": "Arrivée"
+}

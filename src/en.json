@@ -1,0 +1,15 @@
+{
+  "button": {
+    "send": "Send",
+    "record": "Record",
+    "stop": "Stop"
+  },
+  "language": {
+    "french": "French",
+    "english": "English",
+    "label": "Language"
+  },
+  "request": "Type in your request",
+  "departure": "Departure",
+  "arrival": "Arrival"
+}
